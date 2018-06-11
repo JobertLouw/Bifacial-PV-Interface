@@ -1,0 +1,18 @@
+ZONE= I 0 3 0 2 0 1.75
+scene= sky.rad outside.rad
+scene= pv_plant_scene.rad cell.rad
+
+EXP= 0.0288702
+VAR= High
+DET= H
+QUAL= Med
+
+# Be sure to use a unique name here
+AMB= illum.amb
+
+# No interreflections necessary
+INDIRECT= 0
+
+# Options for mkillum
+mkillum= -av 18 18 18 -ab 0
+view= -vf bev.vf 

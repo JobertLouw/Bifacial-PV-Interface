@@ -1,0 +1,8 @@
+#?RADIANCE
+rvu -av 17 17 17 -aw 0 -ab 0 -aa 0.1 -ad 1536 -as 392 -ar 1706 pv_control.oct
+SOFTWARE= RADIANCE 5.2.0.7b8a6d421c NREL 2018-01-15 (based on RADIANCE 5.2a Official Release by G. Ward)
+CAPDATE= 2018:06:09 15:45:49
+GMT= 2018:06:09 13:45:49
+FORMAT=Radiance_ambval
+
+/
